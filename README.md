@@ -2,7 +2,7 @@
 ![alt text](https://projecteuler.net/profile/Macadelic.png)
 
 ## Solved:
-5%: __ 56/63\
+5%: 56/63\
 10%	6/10\
 15%	2/18\
 20% 2/28\
